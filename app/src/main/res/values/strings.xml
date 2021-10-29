@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MuseTest</string>
+    <string name="select_muse">Choose muse</string>
 </resources>
