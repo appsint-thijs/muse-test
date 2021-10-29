@@ -13,3 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
+app/libs/libmuse_android.jar
+
