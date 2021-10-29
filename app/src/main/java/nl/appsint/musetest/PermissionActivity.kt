@@ -16,11 +16,6 @@ import com.google.android.gms.common.api.ResolvableApiException
 import com.google.android.gms.location.*
 import com.google.android.gms.tasks.Task
 
-/**
- * Created by APPSINT/thijs on oktober 29, 2021.
- * Written for client "MuseTest"
- * Package: nl.appsint.musetest
- */
 abstract class PermissionActivity: AppCompatActivity() {
     protected abstract fun onPermissionsInitialized()
 

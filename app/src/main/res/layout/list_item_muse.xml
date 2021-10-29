@@ -26,6 +26,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:lines="1"
+        android:textColor="?attr/colorControlNormal"
         tools:text="AB:CD:EF:00:11:22"/>
 
 </LinearLayout>

@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">MuseTest</string>
     <string name="select_muse">Choose muse</string>
+    <string name="clear_the_app_from_memory_to_repeat_test">Clear the app from memory to repeat test</string>
 </resources>
